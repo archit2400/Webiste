@@ -37,7 +37,6 @@
         <p>&copy; 2023 Climate Change Awareness</p>
     </footer>
 
-    <script src="script.js"></script>
 </body>
 </html>
-# Webiste
+
